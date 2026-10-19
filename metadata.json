@@ -1,0 +1,6 @@
+{
+  "name": "Magengeschwür – Ratgeber E-Book",
+  "description": "Offizielle Verkaufsseite für das E-Book 'Magengeschwür – Warnzeichen und Behandlung'. Kompakter Ratgeber zur Früherkennung, Diagnose und Heilung im Alltag.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
